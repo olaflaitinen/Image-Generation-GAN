@@ -1,0 +1,4 @@
+python src/data_preprocessing.py
+python src/train.py
+python src/evaluate.py
+python src/visualize.py
